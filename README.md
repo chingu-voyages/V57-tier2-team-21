@@ -35,7 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - JD Horton: [GitHub](https://github.com/JD818) 
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Malik Haziq: [GitHub](https://github.com/Malik-Haziq) / [LinkedIn](https://www.linkedin.com/in/malik-haziq-b5233a231/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
