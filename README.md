@@ -37,5 +37,5 @@ coding!
 - JD Horton: [GitHub](https://github.com/JD818) 
 - Malik Haziq: [GitHub](https://github.com/Malik-Haziq) / [LinkedIn](https://www.linkedin.com/in/malik-haziq-b5233a231/)
 - Erica Chong: [GitHub](https://github.com/chonger878) / [LinkedIn](https://linkedin.com/in/charwaeericaChong)
-   ...
+
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
