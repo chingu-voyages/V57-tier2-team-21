@@ -4,7 +4,7 @@ export default function Home() {
     <div className="bg-auto w-screen h-screen bg-white">
       <h1 className="text-3xl text-black ml-2">Pull Request Status Board</h1>
       <h3 className="text-black ml-2">Track current pull requests waiting for review and completed PR history</h3>
-    <div className="flex w-screen mt-10 mb-10">
+    <div className="flex w-screen items-stretch mt-10 mb-10">
           <div className="flex-none border-black max-w-80 p-5 ml-10 mr-5 bg-white outline-3 rounded">
               <p className="text-black">Pending Review</p>
               <p className="text-2xl text-black">4</p>
@@ -85,15 +85,41 @@ export default function Home() {
                 <p className="text-black text-right pr-2">Pending</p>
               </div>
             </button>
-            <button className="flex border-black bg-white outline-3 w-3/4 mb-5 rounded">
-              <div className="flex-none">
-                <h3 className="text-black">Add user authentication middleware for API endpoints</h3>
-                <p className="text-gray-500">backend-api#1847•feature/auth-middleware</p>
+            <button className="border-black bg-white outline-3 w-3/4 ml-5 mb-5 p-2 rounded">
+              <div className="flex mb-5">
+                <div className="flex-none">
+                  <p className="text-black ml-10">Add user authentication middleware for API endpoints</p>
+                  <p className="text-gray-500">backend-api#1847•feature/auth-middleware</p>
+                </div>
+                <div className="flex-1">
+                  <p className="text-black text-right pr-2">Pending</p>
+                </div>
               </div>
-              <div className="flex-1">
-                <p className="text-black text-right pr-2">Pending</p>
-              </div>
+              <div className="flex">
+                <div className="flex-none">
+                  <div className="flex indent-10">
+                    <div className="flex-none"><p className="text-gray-500">Created by: sarah.chen</p></div>
+                    <div className="flex-1"><p className="text-gray-500">3 comments</p></div>
+                  </div>
+                  <div className="flex">
+                    <div className="flex-none">
+                      <p>Reviewer:</p>
+                    </div>
+                    <div className="flex-1">
+                      <div className="w-8 h-8 ml-10 rounded-full 
+                            bg-blue-500 text-gray-700 text-xl justify-center border-black">
+                        A
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex-1">
+                  <p className="text-black text-right pr-2">372d ago</p>
+                </div>
+                </div>
+        
             </button>
+
           </div>
     </div>
     
